@@ -1,3 +1,5 @@
 discord.py
 easyocr
+pytesseract
 python-docx
+opencv-python
