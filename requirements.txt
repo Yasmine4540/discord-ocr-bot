@@ -1,0 +1,3 @@
+discord.py
+easyocr
+python-docx
